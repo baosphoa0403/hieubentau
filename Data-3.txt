@@ -1,0 +1,52 @@
+{
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/c4ad0faf-2027-441b-a8b9-a15720f3cc42/air-max-90-slide-bPJh33.jpg",
+    "message": "Nike Air Max 90",
+    "name": "Nike Air Max 90\nMen's Slide",
+    "price": 2189000,
+    "color": 1,
+     "description": "The Nike Air Max 90 Slide honours the legendary shoe that shook up the sneaker scene 30 years ago. The visible Max Air unit in the heel celebrates its strong heritage, while colourful stitched-in TPU elements add retro styling. The foam footbed and plush strap lining offer comfort and support. An embroidered Swoosh and premium materials elevate this slide into a category all its own.",
+"sizes": [
+        {
+            "size": 40
+        },
+        {
+            "size": 40.5
+        },
+          {
+            "size": 41
+        },
+        {
+            "size": 42
+        },
+          {
+            "size": 43
+        },
+        {
+            "size": 44
+        },
+        {
+            "size": 45
+        }
+    ],
+ "imgDetails": [
+        {
+            "color": "red",
+            "imgs": [
+               {
+   "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/7477b717-f13a-4b23-87fd-eddd30682903/air-max-90-slide-bPJh33.jpg"
+  },
+   {
+     "img": "https://static.nike.com/a/videos/t_PDP_1280_v1/f_auto,q_auto:eco,so_0/9c5b1c00-f699-482e-9bcc-4ba5b6959c00/air-max-90-slide-bPJh33.jpg"
+  },
+   {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/83513500-ab5d-46f2-99d7-7cc4370c25a8/air-max-90-slide-bPJh33.jpg"
+  },
+    {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/f42b2306-921c-4141-96a4-05decae480c4/air-max-90-slide-bPJh33.jpg"
+  },
+  {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/6e1ad752-56bf-489c-b182-17d2db0f8669/air-max-90-slide-bPJh33.jpg"
+  },            ]
+        }
+    ]
+  },

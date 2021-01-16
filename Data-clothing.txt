@@ -1,0 +1,935 @@
+[
+     {
+    "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/b0cccd97-5dc7-4dba-b720-ab7863109ebf/exploration-series-basketball-t-shirt-8dkWTQ.jpg",
+    "title": "Nike Exploration Series",
+    "message": "Nike Exploration Series\nMen's Basketball T-Shirt",
+    "price": 819000,
+    "colors": 1,
+    "description": "The Nike T-Shirt is made from soft cotton. It's got a mashed-up assortment of hand-drawn graphics inspired by the graffitied bodegas of Brooklyn.",
+    "sizes": [
+        {
+            "size": "S"
+        },
+        {
+            "size": "M"
+        },
+          {
+            "size": "L"
+        },
+        {
+            "size": "XL"
+        },
+        {
+            "size": "2XL"
+        }
+    ],
+    "imgDetails": [
+        {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/7ed998ba-0ecb-42dd-aad7-c6d362b5afae/exploration-series-basketball-t-shirt-8dkWTQ.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/4cc9b2ab-6f4b-46d6-88e3-74df4e4ebc64/exploration-series-basketball-t-shirt-8dkWTQ.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/68d14f1b-b036-4dec-b0ee-33bf2f58ed32/exploration-series-basketball-t-shirt-8dkWTQ.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/33e0c08b-3b50-4e18-9942-fd45fa7ac63a/exploration-series-basketball-t-shirt-8dkWTQ.jpg"
+        },
+          {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/a38eb654-c7f4-4a77-be63-aa3a589e0750/exploration-series-basketball-t-shirt-8dkWTQ.jpg"
+        }
+    ]
+
+  },
+  {
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/cb78126d-6abf-4169-826e-7453f971923e/dri-fit-miler-running-top-gJH4Zt.jpg",
+     "title": "Nike Dri-FIT Miler",
+    "message": "Nike Dri-FIT Miler\nMen's Running Top",
+    "price": 819000,
+    "colors": 4,
+    "description": "Take on your daily route with the Nike Dri-FIT Miler Top. It offers lightweight performance and mobility for the entry-level runner. This product is made from at least 50% recycled polyester fabric.",
+    "sizes": [
+        {
+            "size": "S"
+        },
+        {
+            "size": "M"
+        },
+          {
+            "size": "L"
+        },
+        {
+            "size": "XL"
+        },
+        {
+            "size": "2XL"
+        }
+    ],
+    "imgDetails": [
+        {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/174ecd8b-ef39-4007-9e0f-8778f9f6ecd6/dri-fit-miler-running-top-gJH4Zt.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/6949c99f-619c-488d-87dc-aedb73988f9e/dri-fit-miler-running-top-gJH4Zt.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/3921029e-c68c-438d-af66-11d8457c873f/dri-fit-miler-running-top-gJH4Zt.jpg"
+        }
+    ]
+  },
+  {
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/144e79cd-590c-49e5-9c09-567913d120b6/jordan-flight-warm-up-jacket-tCg9QH.jpg",
+     "title": "Jordan Flight",
+    "message": "Jordan Flight\nMen's Warm-Up Jacket",
+    "price": 2859000,
+    "colors": 1,
+     "description": "Crafted with a relaxed fit, the Jordan Flight Warm-Up Jacket is made from ultralight woven fabric with a sweat-wicking liner. A flight label connects each piece back to the collection.",
+    "sizes": [
+        {
+            "size": "S"
+        },
+        {
+            "size": "M"
+        },
+          {
+            "size": "L"
+        },
+        {
+            "size": "XL"
+        },
+        {
+            "size": "2XL"
+        }
+    ],
+    "imgDetails": [
+        {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/c1967166-371c-46a1-8fc0-e8549fe34366/jordan-flight-warm-up-jacket-tCg9QH.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/b815293e-7bef-4bdc-8a08-1adb2eac941f/jordan-flight-warm-up-jacket-tCg9QH.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/3cd6b290-a53d-489a-bfac-51d04959b3e2/jordan-flight-warm-up-jacket-tCg9QH.jpg"
+        }
+    ]
+  },
+  {
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/a70618e6-b30c-4f82-9a2d-18f77ccc6fc9/jordan-air-short-sleeve-crew-k10t9C.jpg",
+     "title": "Jordan Air",
+    "message": "Jordan Air\nMen's Short-Sleeve Crew",
+    "price": 819000,
+    "colors": 1,
+     "description": "The Jordan Air T-Shirt pays homage to its lasting appeal in a futuristic font on lightweight knit fabric. Sweat-wicking technology helps keep you dry on the move.",
+    "sizes": [
+        {
+            "size": "S"
+        },
+        {
+            "size": "M"
+        },
+          {
+            "size": "L"
+        },
+        {
+            "size": "XL"
+        },
+        {
+            "size": "2XL"
+        }
+    ],
+    "imgDetails": [
+        {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/869a93e0-a590-45f3-bbda-da29b6d089cd/jordan-air-short-sleeve-crew-k10t9C.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_LOADING_v1/f_auto,q_auto:eco/f107424a-72f5-4be5-a17f-dfd4c42156f2/jordan-air-short-sleeve-crew-k10t9C.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1b8da2c3-bd3b-49a4-97f0-bb702a78efd5/jordan-air-short-sleeve-crew-k10t9C.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1efbd104-0c44-4c7a-bd86-5b5a938396d2/jordan-air-short-sleeve-crew-k10t9C.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/8b0847e8-626b-406e-8aec-602852bc9b5c/jordan-air-short-sleeve-crew-k10t9C.jpg"
+        }
+    ]
+  },
+  {
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/a2bea778-e663-4e7f-9738-ba2bb0203788/jordan-air-fleece-trousers-VxtGw0.jpg",
+     "title": "Jordan Air",
+    "message": "Jordan Air\nMen's Fleece Trousers",
+    "price": 1839000,
+    "colors": 1,
+     "description": "Built to wear on and off the court, the Jordan Air Trousers are made from durable, stretch-knit fabric with woven overlays for contrast. They're equipped with zipped pockets and an adjustable waistband.",
+    "sizes": [
+        {
+            "size": "S"
+        },
+        {
+            "size": "M"
+        },
+          {
+            "size": "L"
+        },
+        {
+            "size": "XL"
+        },
+        {
+            "size": "2XL"
+        }
+    ],
+    "imgDetails": [
+        {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/28ae831f-86b7-49c6-b4bb-8e804f8f6766/jordan-air-fleece-trousers-VxtGw0.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/23ec1422-6dc9-4833-9311-4c0c9217fcbf/jordan-air-fleece-trousers-VxtGw0.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/6c207789-fe49-4ed4-ba23-9f52d7fc6e86/jordan-air-fleece-trousers-VxtGw0.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/9cc9c34c-60a2-409d-9c44-23a2dd2c4938/jordan-air-fleece-trousers-VxtGw0.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/4551fbc4-5474-4ebc-92d9-e7b92198e152/jordan-air-fleece-trousers-VxtGw0.jpg"
+        },
+          {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/c2e73e8e-73c9-4e49-8db8-453bc5899484/jordan-air-fleece-trousers-VxtGw0.jpg"
+        }
+    ]
+  },
+  {
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/6d64331e-13f1-48f9-95e1-007ea7866bfe/dri-fit-miler-wild-run-graphic-running-top-RbJzX1.jpg",
+     "title": "Nike Dri-FIT Miler Wild Run",
+    "message": "Nike Dri-FIT Miler Wild Run\nMen's Graphic Running Top",
+    "price": 919000,
+    "colors": 1,
+     "description": "Take on your daily route with the Nike Dri-FIT Miler Top. This running favourite features lightweight performance and mobility for the entry-level runner. Graphics honour running communities across the globe. This product is made from at least 75% recycled polyester fabric.",
+    "sizes": [
+        {
+            "size": "S"
+        },
+        {
+            "size": "M"
+        },
+          {
+            "size": "L"
+        },
+        {
+            "size": "XL"
+        },
+        {
+            "size": "2XL"
+        }
+    ],
+    "imgDetails": [
+        {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/669f59df-e277-4afe-8e6e-df9b19e7389f/dri-fit-miler-wild-run-graphic-running-top-RbJzX1.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/2f4a039d-53c8-47e2-96cf-a58b1c9eabb4/dri-fit-miler-wild-run-graphic-running-top-RbJzX1.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1dd39003-8287-4e1f-b754-94be5528b57d/dri-fit-miler-wild-run-graphic-running-top-RbJzX1.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/3a75e5ee-0963-43c8-ad5b-045cc9427533/dri-fit-miler-wild-run-graphic-running-top-RbJzX1.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/93917e14-b3d8-4ee4-a422-52732b3fa511/dri-fit-miler-wild-run-graphic-running-top-RbJzX1.jpg"
+        },
+          {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/d27ad6ef-0767-4731-bfbf-0e9c4b5b0f26/dri-fit-miler-wild-run-graphic-running-top-RbJzX1.jpg"
+        }
+    ]
+  },
+  {
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/7a235415-c53a-4f69-946e-a52fd1a06eb8/rise-365-wild-run-short-sleeve-running-top-qJ4qPS.jpg",
+     "title": "Nike Rise 365 Wild Run",
+    "message": "Nike Rise 365 Wild Run\nMen's Short-Sleeve Running Top",
+    "price": 1279000,
+    "colors": 1,
+     "description": "The Nike Rise 365 Wild Run Top delivers versatile performance for everyday running. Designed for lightweight mobility, the top features graphics inspired by run clubs around the world.",
+    "sizes": [
+        {
+            "size": "S"
+        },
+        {
+            "size": "M"
+        },
+          {
+            "size": "L"
+        },
+        {
+            "size": "XL"
+        },
+        {
+            "size": "2XL"
+        }
+    ],
+    "imgDetails": [
+        {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/0ef0e2eb-9e25-458f-b9f5-05c74fe6dcc4/rise-365-wild-run-short-sleeve-running-top-qJ4qPS.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/bf23b787-2cd1-47b1-a1e4-e6aaf404a452/rise-365-wild-run-short-sleeve-running-top-qJ4qPS.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/cb3c1c1c-ac4e-4352-9694-dc7a65e469f7/rise-365-wild-run-short-sleeve-running-top-qJ4qPS.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/2d0d58ec-a24c-4e82-a597-e4662816d195/rise-365-wild-run-short-sleeve-running-top-qJ4qPS.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/9fceaecf-2a79-45f5-80ee-c31b8dae3fa7/rise-365-wild-run-short-sleeve-running-top-qJ4qPS.jpg"
+        },
+          {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/6ae7a5f8-52bf-4ffa-8dc5-fc4ecab9be9a/rise-365-wild-run-short-sleeve-running-top-qJ4qPS.jpg"
+        },
+        {
+            "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/a52692b0-8f11-43dc-b723-9183cb2d8adc/rise-365-wild-run-short-sleeve-running-top-qJ4qPS.jpg"
+        }
+    ]
+  },
+  {
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/f79fd63b-bb58-45be-9ed5-c33b49e029df/sportswear-woven-trousers-W5f4C4.jpg",
+     "title": "Nike Sportswear",
+    "message": "Nike Sportswear\nMen's Woven Trousers",
+    "price": 1579000,
+    "colors": 1,
+     "description": "Updating a classic tracksuit-bottoms style, the Nike Sportswear Trousers are made with a woven cotton twill fabric and cargo pockets to keep your phone, keys and cards close at hand. An elastic drawstring waist and cuffs let you dial in the fit and customise the look.",
+    "sizes": [
+        {
+            "size": "S"
+        },
+        {
+            "size": "M"
+        },
+          {
+            "size": "L"
+        },
+        {
+            "size": "XL"
+        },
+        {
+            "size": "2XL"
+        }
+    ],
+    "imgDetails": [
+        {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/14d1705c-089d-4472-963b-263d638fc6ce/sportswear-woven-trousers-W5f4C4.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/b6f49c8c-67f0-43dd-8863-32a42664344b/sportswear-woven-trousers-W5f4C4.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/f018d479-a33c-46b1-8de1-8b35704434dc/sportswear-woven-trousers-W5f4C4.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/64c24e73-f5fb-457a-b079-5e9f2dfc5fd7/sportswear-woven-trousers-W5f4C4.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/b5600e20-d4a6-468d-bf9e-12fcaa7a1a64/sportswear-woven-trousers-W5f4C4.jpg"
+        },
+          {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/f1908f1f-5188-4480-81e6-d285f99f1faa/sportswear-woven-trousers-W5f4C4.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/171803f9-002a-4140-b63d-8b7c549159b2/sportswear-woven-trousers-W5f4C4.jpg"
+        }
+    ]
+  },
+  {
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/db47e3d0-dff2-4b26-a9a5-578b3b77562c/therma-training-crew-HXLZ7p.jpg",
+     "title": "Nike Therma",
+    "message": "Nike Therma\nMen's Training Crew",
+    "price": 1279000,
+    "colors": 1,
+     "description": "The Nike Therma Top is made from lightweight fleece that insulates to keep you warm. Fabric has 2-way stretch and Dri-FIT Technology that helps you stay dry and comfortable. This product is made from at least 50% recycled polyester fibres",
+    "sizes": [
+        {
+            "size": "S"
+        },
+        {
+            "size": "M"
+        },
+          {
+            "size": "L"
+        },
+        {
+            "size": "XL"
+        },
+        {
+            "size": "2XL"
+        }
+    ],
+    "imgDetails": [
+        {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/14b15635-ac77-4ea2-962a-9fc7f3757e3c/therma-training-crew-HXLZ7p.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/3acb82ef-32f6-4ebe-8f65-a67e8d3d3ef0/therma-training-crew-HXLZ7p.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/e0762748-4cc0-46b5-bbe0-758c975a3895/therma-training-crew-HXLZ7p.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/48e1d93a-390d-4faf-b627-2be4335ce3d8/therma-training-crew-HXLZ7p.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/b7408688-3435-4f6f-bb5f-4a0a2899635e/therma-training-crew-HXLZ7p.jpg"
+        },
+          {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/99d63f84-9afb-42a4-ae3f-95874942fe58/therma-training-crew-HXLZ7p.jpg"
+        }
+    ]
+  },
+  {
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/ff4bc4f0-e598-46d9-8d95-4362bf7b3e5a/therma-training-hoodie-nPRfnT.jpg",
+     "title": "Nike Therma",
+    "message": "Nike Therma\nMen's Full-Zip Training Hoodie",
+    "price": 2499000,
+    "colors": 1,
+     "description": "Take on cold, wet weather in the Nike Therma Hoodie. It repels water to keep you dry and is slightly longer at the back for more coverage. The insulating design holds in heat with a soft fleece interior so you can stay warm.",
+    "sizes": [
+        {
+            "size": "S"
+        },
+        {
+            "size": "M"
+        },
+          {
+            "size": "L"
+        },
+        {
+            "size": "XL"
+        },
+        {
+            "size": "2XL"
+        }
+    ],
+    "imgDetails": [
+        {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/326c669e-bd7c-4402-b029-8a7617e4eff7/therma-training-hoodie-nPRfnT.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/92176265-840c-4b6b-b0e1-4a3c5a98681f/therma-training-hoodie-nPRfnT.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/3db35e73-e978-48bb-8101-59572c3327cc/therma-training-hoodie-nPRfnT.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/0da0cf64-11f2-4bf4-9c85-2ff8201664cf/therma-training-hoodie-nPRfnT.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/98d32f14-f50c-4a7e-9e4a-2ee70e69deac/therma-training-hoodie-nPRfnT.jpg"
+        },
+          {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/2601ce9b-feff-4cbf-a095-ee2e470ec4bb/therma-training-hoodie-nPRfnT.jpg"
+        },
+          {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/df639267-a4ee-4480-bdab-7ac52f7a44dd/therma-training-hoodie-nPRfnT.jpg"
+        }
+    ]
+  },
+bảo
+  {
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/46caebef-ce6e-4390-b6e0-b0e4f19513e7/nikecourt-dri-fit-tennis-polo-r3q7k3.jpg",
+     "title": "NikeCourt Dri-FIT",
+    "message": "NikeCourt Dri-FIT\nMen's Tennis Polo",
+    "price": 1019000,
+    "colors": 1,
+     "description": "With sweat-wicking, 100% recycled fabric and a design that's made for movement, the NikeCourt Dri-FIT Polo is your first choice for the court. This product is made from 100% recycled polyester fabric.",
+    "sizes": [
+        {
+            "size": "S"
+        },
+        {
+            "size": "M"
+        },
+          {
+            "size": "L"
+        },
+        {
+            "size": "XL"
+        },
+        {
+            "size": "2XL"
+        }
+    ],
+    "imgDetails": [
+        {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/8253c4fa-d692-4dde-b142-dcb455d33bdd/nikecourt-dri-fit-tennis-polo-r3q7k3.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/c3f9a552-7593-40b0-852c-8598c8ec6709/nikecourt-dri-fit-tennis-polo-r3q7k3.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/3e4e5db2-d6e1-4be0-8989-adb760c8e890/nikecourt-dri-fit-tennis-polo-r3q7k3.jpg"
+        }
+    ]
+  },
+  {
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/78b67db4-43c6-43ae-83b2-e4968f147882/sportswear-long-sleeve-t-shirt-XbflHp.jpg",
+     "title": "Nike Sportswear",
+    "message": "Nike Sportswear\nMen's Long-Sleeve T-Shirt",
+    "price": 919000,
+    "colors": 1,
+     "description": "Soft cotton and a classic fit make the Nike Sportswear Long-Sleeve T-Shirt an ideal option for everyday wear. Printed graphics help you show your love for Nike Air.",
+    "sizes": [
+        {
+            "size": "S"
+        },
+        {
+            "size": "M"
+        },
+          {
+            "size": "L"
+        },
+        {
+            "size": "XL"
+        },
+        {
+            "size": "2XL"
+        }
+    ],
+    "imgDetails": [
+        {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/80b3dd7b-21fc-4d8a-92b9-3653487f3b80/sportswear-long-sleeve-t-shirt-XbflHp.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/9ba881c1-b864-4247-a831-a822385b07dc/sportswear-long-sleeve-t-shirt-XbflHp.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/9d80473b-7560-45d5-ac3a-14df615c5115/sportswear-long-sleeve-t-shirt-XbflHp.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/2b03d52a-b4a2-4140-8997-2517c5aa3bac/sportswear-long-sleeve-t-shirt-XbflHp.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/5f21c2f5-a606-4564-9fe2-e0cae1faadea/sportswear-long-sleeve-t-shirt-XbflHp.jpg"
+        }
+    ]
+  },
+  {
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/0b8fff49-e232-412c-a942-7211f26bb9ce/dri-fit-kyrie-logo-basketball-t-shirt-2P8rdj.jpg",
+     "title": "Nike Dri-FIT Kyrie Logo",
+    "message": "Nike Dri-FIT Kyrie Logo\nMen's Basketball T-Shirt",
+    "price": 819000,
+    "colors": 1,
+     "description": "When Kyrie focuses and taps into his inner power, there is nothing he can't do on the basketball court. His Nike Dri-FIT Kyrie Logo T-Shirt is made from soft, sweat-wicking fabric you can play in without getting weighed down by your own sweat..",
+    "sizes": [
+        {
+            "size": "S"
+        },
+        {
+            "size": "M"
+        },
+          {
+            "size": "L"
+        },
+        {
+            "size": "XL"
+        },
+        {
+            "size": "2XL"
+        }
+    ],
+    "imgDetails": [
+        {
+             "img": "'https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/086268d2-6b25-4412-8c54-268ac5909b8f/dri-fit-kyrie-logo-basketball-t-shirt-2P8rdj.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/cd55d771-47c3-46b7-beb6-a8bdeb666e90/dri-fit-kyrie-logo-basketball-t-shirt-2P8rdj.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/f95a98ec-8932-4410-b74b-644e1082c86b/dri-fit-kyrie-logo-basketball-t-shirt-2P8rdj.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1a4cb125-2c82-47c6-8c22-64cf7bbc8ddd/dri-fit-kyrie-logo-basketball-t-shirt-2P8rdj.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/10ddc08f-d7eb-46fc-b957-a9bdeda97365/dri-fit-kyrie-logo-basketball-t-shirt-2P8rdj.jpg"
+        },
+          {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/78d4df9f-1971-4fb4-b1f7-93122b3fd1e6/dri-fit-kyrie-logo-basketball-t-shirt-2P8rdj.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/436c6ae8-5906-433f-9ffc-4b501426c8ea/dri-fit-kyrie-logo-basketball-t-shirt-2P8rdj.jpg"
+        }
+    ] 
+  },
+  {
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/dbd9cf9a-5b1e-413f-97e7-4aaf5881ccba/sportswear-short-sleeve-top-qlgG40.jpg",
+     "title": "Nike Sportswear",
+    "message": "Nike Sportswear\nMen's Short-Sleeve Top",
+    "price": 919000,
+    "colors": 1,
+     "description": "Inspired by Nike's original 1978 Windrunner jacket, the Nike Sportswear Top features the same 26-degree chevron design across the chest for an iconic look. The soft jersey fabric keeps you comfortable.",
+    "sizes": [
+        {
+            "size": "S"
+        },
+        {
+            "size": "M"
+        },
+          {
+            "size": "L"
+        },
+        {
+            "size": "XL"
+        },
+        {
+            "size": "2XL"
+        }
+    ],
+    "imgDetails": [
+        {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/cf014309-2780-43de-bbb4-2674ac6a08e0/sportswear-short-sleeve-top-qlgG40.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/a162ad31-8164-4811-bbcf-9d48e078e251/sportswear-short-sleeve-top-qlgG40.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/4c6344df-544c-4f79-ba05-953ddf47d9ad/sportswear-short-sleeve-top-qlgG40.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/e1576a33-3854-4528-94b2-ad67dd1f51c5/sportswear-short-sleeve-top-qlgG40.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/f3597750-2cb3-4819-a6c6-f3c97c306ba2/sportswear-short-sleeve-top-qlgG40.jpg"
+        }
+    ]
+  },
+  {
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/425ed76f-bc4b-4f14-9cd3-ed644da6cb27/sportswear-synthetic-fill-fleece-jacket-hctvsj.jpg",
+     "title": "Nike Sportswear Synthetic-Fill",
+    "message": "Nike Sportswear Synthetic-Fill\nMen's Fleece Jacket",
+    "price": 3219000,
+    "colors": 1,
+     "description": "The Nike Sportswear Jacket combines synthetic sheet insulation and a fleece lining to add warmth without adding bulk. Oversized zipped hand pockets provide secure storage to your phone, keys and cards. Windrunner details provide an authentic Nike look.",
+    "sizes": [
+        {
+            "size": "S"
+        },
+        {
+            "size": "M"
+        },
+          {
+            "size": "L"
+        },
+        {
+            "size": "XL"
+        },
+        {
+            "size": "2XL"
+        }
+    ],
+    "imgDetails": [
+        {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/6e0f752e-c092-455b-82d1-ce17744cece2/sportswear-synthetic-fill-fleece-jacket-hctvsj.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/2a7fb6a3-bd98-411e-b24b-68914bcfab5f/sportswear-synthetic-fill-fleece-jacket-hctvsj.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/13392aa6-6dfb-4878-b2d3-60384dcab3b5/sportswear-synthetic-fill-fleece-jacket-hctvsj.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/26c9701a-6a77-4b3b-aced-9374a7c0850f/sportswear-synthetic-fill-fleece-jacket-hctvsj.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/67278f87-06ca-4099-8dac-0f279a76671d/sportswear-synthetic-fill-fleece-jacket-hctvsj.jpg"
+        },
+          {
+             "img": "'https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/e39ab874-9fca-4914-a8f5-6c79cf9904c5/sportswear-synthetic-fill-fleece-jacket-hctvsj.jpg"
+        }
+    ]
+  },
+  {
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/06e23823-0a68-44b4-a1c0-456f169bb431/challenger-wild-run-graphic-running-shorts-2sCGzl.jpg",
+     "title": "Nike Challenger Wild Run",
+    "message": "Nike Challenger Wild Run\nMen's Graphic Running Shorts",
+    "price": 919000,
+    "colors": 1,
+     "description": "The Nike Challenger Wild Run Shorts deliver breathability and lightweight support for your miles. They use graphics inspired by running clubs across the globe. Convenient pockets stash essential items on the go.",
+    "sizes": [
+        {
+            "size": "S"
+        },
+        {
+            "size": "M"
+        },
+          {
+            "size": "L"
+        },
+        {
+            "size": "XL"
+        },
+        {
+            "size": "2XL"
+        }
+    ],
+    "imgDetails": [
+        {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/6e0f752e-c092-455b-82d1-ce17744cece2/sportswear-synthetic-fill-fleece-jacket-hctvsj.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/2a7fb6a3-bd98-411e-b24b-68914bcfab5f/sportswear-synthetic-fill-fleece-jacket-hctvsj.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/13392aa6-6dfb-4878-b2d3-60384dcab3b5/sportswear-synthetic-fill-fleece-jacket-hctvsj.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/26c9701a-6a77-4b3b-aced-9374a7c0850f/sportswear-synthetic-fill-fleece-jacket-hctvsj.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/67278f87-06ca-4099-8dac-0f279a76671d/sportswear-synthetic-fill-fleece-jacket-hctvsj.jpg"
+        },
+          {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/e39ab874-9fca-4914-a8f5-6c79cf9904c5/sportswear-synthetic-fill-fleece-jacket-hctvsj.jpg"
+        }
+    ]
+  },
+
+  {
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/efe348d8-cfd6-4547-b424-eb712cdb26b6/rafa-tennis-t-shirt-Mps3Mg.jpg",
+     "title": "Rafa",
+    "message": "Rafa\nMen's Tennis T-Shirt",
+    "price": 819000,
+    "color": 1,
+     "description": "Rafael Nadal is a force on the court. Show off player pride in the Rafa T-Shirt, a soft essential that lifts sweat from your skin.",
+    "sizes": [
+        {
+            "size": "S"
+        },
+        {
+            "size": "M"
+        },
+          {
+            "size": "L"
+        },
+        {
+            "size": "XL"
+        },
+        {
+            "size": "2XL"
+        }
+    ],
+    "imgDetails": [
+        {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/34d8e5b1-8f76-42e5-8d1c-fc3bfe5985e7/rafa-tennis-t-shirt-Mps3Mg.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/650a9af8-3251-4a9b-b22f-00cf1c664301/rafa-tennis-t-shirt-Mps3Mg.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/0247a5ca-bb7a-4970-956b-61f1e7a9a368/rafa-tennis-t-shirt-Mps3Mg.jpg"
+        }
+    ]
+  },
+  {
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/c3001f8e-34ac-47ee-88b5-247a22af773b/sportswear-tech-fleece-hoodie-bxk5v8.jpg",
+     "title": "Nike Sportswear Tech Fleece",
+    "message": "Nike Sportswear Tech Fleece Men's Full-Zip Hoodie",
+    "price": 2959000,
+    "color": 3,
+     "description": "The Nike Sportswear Tech Fleece Full-Zip Hoodie is made from a double-sided spacer fabric for added warmth without extra weight. A slightly taller collar in the hood helps keep you dry in cold, wet weather.",
+    "sizes": [
+        {
+            "size": "S"
+        },
+        {
+            "size": "M"
+        },
+          {
+            "size": "L"
+        },
+        {
+            "size": "XL"
+        },
+        {
+            "size": "2XL"
+        }
+    ],
+    "imgDetails": [
+        {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/237094a2-5b5b-4997-816f-ec39328ee8ae/sportswear-tech-fleece-hoodie-bxk5v8.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/feef805c-813a-42a8-9e6e-566164804980/sportswear-tech-fleece-hoodie-bxk5v8.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/371d26fc-7737-47ca-bf8a-a57a52dc7a2d/sportswear-tech-fleece-hoodie-bxk5v8.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/55e499a0-c220-40e5-b20f-dd849f1acab9/sportswear-tech-fleece-hoodie-bxk5v8.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/f486b020-2c78-41b2-971f-53f8e3fd3bb9/sportswear-tech-fleece-hoodie-bxk5v8.jpg"
+        },
+          {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/ad3bb1c7-e3d4-4d24-93c5-f98cc70611e8/sportswear-tech-fleece-hoodie-bxk5v8.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/ee15c694-efdb-40f1-a6bb-088d0cbded6e/sportswear-tech-fleece-hoodie-bxk5v8.jpg"
+        }
+    ]
+  },
+  {
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/4c8cddab-d57f-40d8-98b9-65fcf15cd37f/dri-fit-trail-trail-running-t-shirt-gW8QTW.jpg",
+     "title": "Nike Dri-FIT Trail",
+    "message": "Nike Dri-FIT Trail Men's Trail Running T-Shirt",
+    "price": 819000,
+    "color": 2,
+     "description": "Combining a classic design with sweat-wicking fabric, the Nike Dri-FIT Trail T-Shirt feels lightweight and soft for endless comfort.",
+    "sizes": [
+        {
+            "size": "S"
+        },
+        {
+            "size": "M"
+        },
+          {
+            "size": "L"
+        },
+        {
+            "size": "XL"
+        },
+        {
+            "size": "2XL"
+        }
+    ],
+    "imgDetails": [
+        {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/d336596c-21da-42fd-a979-68a78473d628/dri-fit-trail-trail-running-t-shirt-gW8QTW.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/ca187f9e-fdd2-4484-95dc-e13e71ff8617/dri-fit-trail-trail-running-t-shirt-gW8QTW.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/7ed5467d-ed88-459d-a0b2-ac6541a0d63b/dri-fit-trail-trail-running-t-shirt-gW8QTW.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/a8c4cf3c-f96b-4aa3-a539-52e41dc3193b/dri-fit-trail-trail-running-t-shirt-gW8QTW.jpg"
+        }
+    ]
+  },
+  {
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/80a076cd-f94e-4b78-bfac-29e652a287a6/tech-fleece-joggers-h1ntxv.jpg",
+     "title": "Nike Tech Fleece",
+    "message": "Nike Tech Fleece Men's Joggers",
+    "price": 2499000,
+    "color": 1,
+    "description": "Ready for cooler weather, the Nike Sportswear Tech Fleece Joggers are made from a double-sided spacer fabric that packs in the heat without adding extra weight. A tapered leg design and ribbed cuffs create a clean look that helps your sneakers shine.",
+    "sizes": [
+        {
+            "size": "S"
+        },
+        {
+            "size": "M"
+        },
+          {
+            "size": "L"
+        },
+        {
+            "size": "XL"
+        },
+        {
+            "size": "2XL"
+        }
+    ],
+    "imgDetails": [
+        {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/9a593cf1-2c5d-4151-a1f1-f12ddb780a08/tech-fleece-joggers-h1ntxv.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/11087884-2e80-4005-8eeb-ab7e3a1b11b5/tech-fleece-joggers-h1ntxv.jpg'"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/bc9c1519-9caf-4baf-8f9f-005be429c221/tech-fleece-joggers-h1ntxv.jpg"
+        }
+    ]
+  },
+  {
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/e263bf40-17e0-4d63-83bd-8e587bf8ee40/lebron-james-lakers-statement-edition-2020-jordan-nba-swingman-jersey-qPZ8qH.jpg",
+     "title": "LeBron James Lakers Statement Edition 2020",
+    "message": "LeBron James Lakers Statement Edition 2020\nJordan NBA Swingman Jersey",
+    "price": 2419000,
+    "color": 1,
+     "description": "Bold alternative colours and details distinguish the Statement Edition, a jersey that symbolises the collective strength, spirit and competitive mindset of the roster. The Jordan NBA Statement Edition Swingman Jersey of the Los Angeles Lakers is inspired by what the pros wear. It's made from premium double-knit fabric with an easy, relaxed fit that looks great on fans.",
+    "sizes": [
+        {
+            "size": "S"
+        },
+        {
+            "size": "M"
+        },
+          {
+            "size": "L"
+        },
+        {
+            "size": "XL"
+        },
+        {
+            "size": "2XL"
+        }
+    ],
+    "imgDetails": [
+        {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/0524b6f7-5e1a-48ae-ab62-39d4a4efce25/lebron-james-lakers-statement-edition-2020-jordan-nba-swingman-jersey-qPZ8qH.jpg'"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/50b2b9f6-4a22-40fe-99cf-f9c474e700d2/lebron-james-lakers-statement-edition-2020-jordan-nba-swingman-jersey-qPZ8qH.jpg"
+        }
+    ]
+  },
+  {
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/6172d719-2f0d-4207-a3f4-8e617e9e5b9e/sb-printed-skate-hoodie-m1Z31T.jpg",
+     "title": "Nike SB",
+    "message": "Men's Printed Skate Hoodie",
+    "price": 1839000,
+    "color": 2 ,
+     "description": "The Nike SB Hoodie pairs the traditional design of Japanese woodblock printing with the modern feel of soft fleece.",
+    "sizes": [
+        {
+            "size": "S"
+        },
+        {
+            "size": "M"
+        },
+          {
+            "size": "L"
+        },
+        {
+            "size": "XL"
+        },
+        {
+            "size": "2XL"
+        }
+    ],
+    "imgDetails": [
+        {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/6d548fa0-fccd-4b85-bd5e-89265cf92381/sb-printed-skate-hoodie-m1Z31T.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/5ad115b0-5853-4727-9db3-5c8fb366ecd0/sb-printed-skate-hoodie-m1Z31T.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/c0c19d1f-26ac-45cc-a8bd-5bda1c6a169f/sb-printed-skate-hoodie-m1Z31T.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/606aba03-b76d-4246-ae9b-27c627f8d1ed/sb-printed-skate-hoodie-m1Z31T.jpg"
+        },
+         {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/27578696-aeec-491b-b3ef-62577d971b7f/sb-printed-skate-hoodie-m1Z31T.jpg"
+        },
+          {
+             "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/15ac818f-a32c-4b06-a336-8f60ceebfe70/sb-printed-skate-hoodie-m1Z31T.jpg"
+        }
+    ]
+  }
+]

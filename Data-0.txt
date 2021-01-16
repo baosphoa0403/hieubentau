@@ -1,0 +1,67 @@
+{
+    "img" : "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/99f4044e-6ade-4920-8581-dbef3fd79129/lebron-18-basketball-shoe-JNqV61.jpg",
+    "message": "LeBron 18",
+    "name": "LeBron 18\nBasketball Shoe",
+    "price": 5869000,
+    "color": 0,
+     "description": "When LeBron accelerates down the court, he produces tremendous force. The LeBron 18 is designed to harness his abilities while helping with the stress he puts on his body. Combined cushioning underfoot allows him to use his power for unstoppable bursts of speed.",
+     "sizes": [
+        {
+            "size": 38.5
+        },
+        {
+            "size": 39
+        },
+          {
+            "size": 39.5
+        },
+        {
+            "size": 40
+        },
+          {
+            "size": 40.5
+        },
+        {
+            "size": 41
+        },
+        {
+            "size": 41.5
+        }
+    ],
+  "imgDetails": [
+        {
+            "color": "pink",
+            "imgs": [
+                {
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/64e69213-a00f-4d01-9e75-31d5a30afbe4/lebron-18-basketball-shoe-JNqV61.jpg"
+},
+ {
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/7d9f7e03-f337-43aa-a946-4bf4eb7857bf/lebron-18-basketball-shoe-JNqV61.jpg"
+},
+  {
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/40640c0b-467f-45c6-84b7-a345adf0490b/lebron-18-basketball-shoe-JNqV61.jpg"
+},
+ {
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/f63b6d97-965b-4bba-8a62-78c851e5f669/lebron-18-basketball-shoe-JNqV61.jpg"
+},
+ {
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/b55b412c-de55-4587-8dd3-0bdc73df08a7/lebron-18-basketball-shoe-JNqV61.jpg"
+},
+{
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/4e740e57-9925-4c1f-a3fc-ccd4fc84e5b8/lebron-18-basketball-shoe-JNqV61.jpg"
+},
+ {
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/8d8de92f-d53c-4a00-9fd5-24e27c38d189/lebron-18-basketball-shoe-JNqV61.jpg"
+},
+ {
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/4d4bb4c7-6f44-4955-9f4f-c6fd89586bd6/lebron-18-basketball-shoe-JNqV61.jpg"
+},
+   {
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/13b63968-452a-4bc7-b838-3950cbd05d9b/lebron-18-basketball-shoe-JNqV61.jpg"
+}
+            ]
+        }
+    ]
+
+
+  }

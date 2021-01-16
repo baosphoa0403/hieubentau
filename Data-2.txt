@@ -1,0 +1,69 @@
+{
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/b91cb9b9-47a7-416a-8657-12d8daeceb9a/kybrid-s2-ep-basketball-shoe.jpg",
+    "message": "Kybrid S2 EP",
+    "name": "Kybrid S2 EP\nBasketball Shoe",
+    "price": 3829000,
+    "color": 1,
+    "description": "The Kybrid S2 combines the best of the Kyrie 4, 5 and 6 into one sensational, boundary-pushing basketball shoe. It provides a secure, lightweight fit with an overlay that locks you in when you lace up. A Kyrie-ready Zoom Air unit and traction that wraps up the sides help fast, quick-cutting players stay responsive and turn on their edges. This EP version uses an extra-durable outsole that's ideal for outdoor courts.",
+"sizes": [
+        {
+            "size": 38.5
+        },
+        {
+            "size": 39
+        },
+          {
+            "size": 39.5
+        },
+        {
+            "size": 40
+        },
+          {
+            "size": 40.5
+        },
+        {
+            "size": 41
+        },
+        {
+            "size": 41.5
+        }
+    ],
+"imgDetails": [
+        {
+            "color": "blue",
+            "imgs": [
+    
+  {
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/b0a5a87a-f322-43fc-a899-7c28fa1430ea/kybrid-s2-ep-basketball-shoe-d6GWxh.jpg"
+  },
+  {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/2c09f2e3-3eb8-4312-a6f3-da40b3307a5a/kybrid-s2-ep-basketball-shoe-d6GWxh.jpg"
+  },
+   {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/78d35892-fd7e-43f2-84f8-b974ba4e4497/kybrid-s2-ep-basketball-shoe-d6GWxh.jpg"
+  },
+  {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/33633447-6519-49a2-9ac2-e1ebd7c5275a/kybrid-s2-ep-basketball-shoe-d6GWxh.jpg"
+  },
+   {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/b4fa9dd7-5eac-4933-99fb-61a2ea8034a0/kybrid-s2-ep-basketball-shoe-d6GWxh.jpg"
+  },
+   {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/9d96e5f9-0b4f-4ad6-be7b-fa5a6d263db8/kybrid-s2-ep-basketball-shoe-d6GWxh.jpg"
+  },
+ 
+  {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/f8903ebc-4a16-4d0e-b5d6-ec4b564601ec/kybrid-s2-ep-basketball-shoe-d6GWxh.jpg"
+  },
+  {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/ef7aaf80-1855-4a39-ba4d-f32ad530ebbf/kybrid-s2-ep-basketball-shoe-d6GWxh.jpg"
+  },
+
+            ]
+        },
+
+
+    ]
+
+
+  }

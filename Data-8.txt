@@ -1,0 +1,119 @@
+
+  {
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/cd22a018-fb03-4d65-9543-9a012348efa9/killshot-sp-shoe-0gpfZX.jpg",
+    "name": "Nike Killshot SP",
+    "message": "Nike Killshot SP\nMen's Shoe",
+    "price": 2649000,
+ "color": 2,
+    "description": "The Nike Killshot Shoe embodies 1970s tennis style at its best. Its mesh and suede design and rubber outsole deliver a retro look with off-court comfort.",
+ "sizes": [
+        {
+            "size": 38.5
+        },
+        {
+            "size": 39
+        },
+          {
+            "size": 39.5
+        },
+        {
+            "size": 40
+        },
+          {
+            "size": 40.5
+        },
+        {
+            "size": 41
+        },
+        {
+            "size": 41.5
+        },
+        {
+            "size": 40
+        },
+        {
+            "size": 40.5
+        },
+          {
+            "size": 41
+        },
+        {
+            "size": 42
+        },
+          {
+            "size": 43
+        },
+        {
+            "size": 44
+        },
+        {
+            "size": 45
+        }
+    ],
+"imgDetails": [
+        {
+            "color": "black",
+            "imgs": [
+   
+  {
+   "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-aaf7ce2e-256b-4f35-8cc5-0e1066eed39b/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  },
+   {
+    "img" : "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-9de6b1da-de32-4099-968e-28a1bfaa1a4d/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  },
+    {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-0af2d6bb-af1c-49ee-a50b-34dc7e958bc2/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  },
+  {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-b4575729-ee46-45b3-8941-e3035eef25e5/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  },
+   {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-a08332aa-ff48-4f62-883e-1c1f53661a5e/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  },
+   {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-d5ca9f08-3a7b-4611-ba4f-73652af88fef/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  },
+   {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-00c3b556-1233-4f63-b038-25bfa2b68b64/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  },
+  {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-8a770b89-1911-4ffb-a179-76320e4e41e1/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  },
+   {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-5c87e1b4-a68e-4135-a694-c2bc2f733d8b/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  }
+]
+        },
+        {
+            "color": "blue",
+            "imgs": [
+   
+   {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/677b275f-c6ce-4220-921d-8cac842b1aa9/killshot-sp-shoe-0gpfZX.jpg"
+  },
+  {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/5fc8f1b4-5112-42bc-bd89-00ecf64a94ee/killshot-sp-shoe-0gpfZX.jpg"
+  },
+   {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/aa40e34c-4da8-458d-8ac6-b8150de6e52a/killshot-sp-shoe-0gpfZX.jpg"
+  },
+  {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/883261a5-30a1-49d2-a674-c2a2b74d15e7/killshot-sp-shoe-0gpfZX.jpg"
+  },
+    {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1b8bab19-e4bc-40e7-836a-50bd25ad2d2c/killshot-sp-shoe-0gpfZX.jpg"
+  },
+   {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/35cd65fb-6c5c-4c6a-a207-8b6adf72844e/killshot-sp-shoe-0gpfZX.jpg"
+  },
+    {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/98a0902c-f10d-4483-a2c2-8db218fb2260/killshot-sp-shoe-0gpfZX.jpg"
+  },
+   {
+     "img":"https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/b682ce41-53e9-4ef7-bc32-55663e85dc27/killshot-sp-shoe-0gpfZX.jpg"
+  }]
+        }
+    ]
+
+  }
+

@@ -1,0 +1,121 @@
+ {
+     "img": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/i1-f78445c4-c3fe-47ae-b17b-78a2d717e46e/jordan-mars-270-low-shoe-T7zDhW.jpg",
+    "name": "Jordan Mars 270 Low",
+    "message": "Jordan Mars 270 Low\nMen's Shoe",
+    "price": 4409000,
+    "color": 2,
+    "description": "Mixing elements from 4 iconic Air Jordans, the Jordan Mars 270 Low brings AJ obsession to a new space. The low-top features an enormous cushioning unit and springy foam for non-stop underfoot comfort. It's got a fresh yet familiar look that's primed for the streets.",
+ "sizes": [
+        {
+            "size": 38.5
+        },
+        {
+            "size": 39
+        },
+          {
+            "size": 39.5
+        },
+        {
+            "size": 40
+        },
+          {
+            "size": 40.5
+        },
+        {
+            "size": 41
+        },
+        {
+            "size": 41.5
+        },
+        {
+            "size": 40
+        },
+        {
+            "size": 40.5
+        },
+          {
+            "size": 41
+        },
+        {
+            "size": 42
+        },
+          {
+            "size": 43
+        },
+        {
+            "size": 44
+        },
+        {
+            "size": 45
+        }
+    ],
+"imgDetails": [
+        {
+            "color": "black",
+            "imgs": [
+               {
+   "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-aaf7ce2e-256b-4f35-8cc5-0e1066eed39b/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  },
+  {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-9de6b1da-de32-4099-968e-28a1bfaa1a4d/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  },
+  {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-0af2d6bb-af1c-49ee-a50b-34dc7e958bc2/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  },
+  {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-b4575729-ee46-45b3-8941-e3035eef25e5/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  },
+  {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-a08332aa-ff48-4f62-883e-1c1f53661a5e/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  },
+  { "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-d5ca9f08-3a7b-4611-ba4f-73652af88fef/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  },
+  {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-00c3b556-1233-4f63-b038-25bfa2b68b64/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  },
+  {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-8a770b89-1911-4ffb-a179-76320e4e41e1/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  },
+   {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-5c87e1b4-a68e-4135-a694-c2bc2f733d8b/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  }         
+]
+        },
+ {
+            "color": "white",
+            "imgs": [
+              {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-aaf7ce2e-256b-4f35-8cc5-0e1066eed39b/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  },
+   {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-9de6b1da-de32-4099-968e-28a1bfaa1a4d/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  },
+  {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-0af2d6bb-af1c-49ee-a50b-34dc7e958bc2/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  },
+  {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-b4575729-ee46-45b3-8941-e3035eef25e5/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  },
+  {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-a08332aa-ff48-4f62-883e-1c1f53661a5e/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  },
+   {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-d5ca9f08-3a7b-4611-ba4f-73652af88fef/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  },
+  {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-00c3b556-1233-4f63-b038-25bfa2b68b64/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  },
+  {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-8a770b89-1911-4ffb-a179-76320e4e41e1/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  },
+   {
+     "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-5c87e1b4-a68e-4135-a694-c2bc2f733d8b/jordan-mars-270-low-shoe-T7zDhW.jpg"
+  }           
+     ]
+        }
+
+    ]
+
+
+  }
+  
